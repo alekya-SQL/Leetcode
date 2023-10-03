@@ -1,7 +1,10 @@
 /* Write your T-SQL query statement below */
 
 
-select top 1 q1.person_name from queue q1 join queue q2 on q1.turn >= q2.turn
-group by q1.person_id, q1.person_name, q1.turn
-having sum(q2.weight) <= 1000
-order by q1.turn desc
+select Person_name from 
+(
+select person_name, row_number() over(order by [Total Weight] desc) as rk from
+(
+     select Person_id ,person_name,SUm(weight) over(order by turn) as [Total Weight] from Queue
+) a  where [Total Weight] <= 1000
+) a where rk = 1
