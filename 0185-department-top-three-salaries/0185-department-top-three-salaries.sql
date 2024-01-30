@@ -1,11 +1,10 @@
 /* Write your T-SQL query statement below */
-
-
-select distinct  Department,Employee,Salary from
+select Department,employee,salary from
 (
-select d.name as Department,e.name as Employee ,Salary,DENSE_RANK() over(partition by d.name order by salary desc) as rank
-from employee e inner join Department d
-on e.departmentId = d.id
+select d.name as Department,e.name as  Employee ,Salary,Dense_rank() over(partition by d.name order by  d.name,salary desc) as ranks
+from Department  d inner join Employee  e on e.departmentId  = d.id
+   
 
-) a where rank <= 3
-order by department,salary,Employee desc
+    ) a where ranks <= 3
+    order by  Department,salary desc
+  
