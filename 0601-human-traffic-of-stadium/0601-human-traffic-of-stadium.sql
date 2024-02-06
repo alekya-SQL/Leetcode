@@ -1,6 +1,4 @@
 /* Write your T-SQL query statement below */
-
-
 ;with data as (
 select
 *,
