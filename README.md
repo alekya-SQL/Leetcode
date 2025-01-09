@@ -1,5 +1,5 @@
 Welcome to my LeetCode SQL Practice Solutions repository! This repository contains my solutions to a wide range of SQL problems from LeetCode. 
-Here, you'll find problems that focus on topics such as joins, subqueries, aggregations, window functions, grouping, set operations.
+Here, you'll find problems that focus on topics such as joins, subqueries, aggregations, window functions, grouping, set operations,CTE's.
 
 Key Skills Demonstrated
 In this repository, I demonstrate the following SQL skills:
@@ -43,7 +43,7 @@ Contributions: Feel free to open an issue or create a pull request if you'd like
 🎯 Future Plans
 I plan to continue adding more SQL challenges as I solve them, focusing on:
 
-Advanced SQL Concepts like Recursive Queries and CTEs.
+Advanced SQL Concepts.
 Performance Benchmarks for real-world data challenges.
 Multi-Table Querying and Optimizing Complex Joins.
 🌟 Conclusion
