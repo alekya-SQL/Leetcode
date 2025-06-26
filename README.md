@@ -67,4 +67,5 @@ I continue to challenge myself with more complex problems to further sharpen my 
 |  |
 | ------- |
 | [1541-top-travellers](https://github.com/alekya-SQL/Leetcode/tree/master/1541-top-travellers) |
+| [3792-find-invalid-ip-addresses](https://github.com/alekya-SQL/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
