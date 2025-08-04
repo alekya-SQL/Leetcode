@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/sales-person/">607. Sales Person</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>SalesPerson</code></p>
+<h2><a href="https://leetcode.com/problems/sales-person">607. Sales Person</a></h2><h3>Easy</h3><hr><p>Table: <code>SalesPerson</code></p>
 
-<pre>+-----------------+---------+
+<pre>
++-----------------+---------+
 | Column Name     | Type    |
 +-----------------+---------+
 | sales_id        | int     |
@@ -17,7 +18,8 @@ Each row of this table indicates the name and the ID of a salesperson alongside 
 
 <p>Table: <code>Company</code></p>
 
-<pre>+-------------+---------+
+<pre>
++-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
 | com_id      | int     |
@@ -32,7 +34,8 @@ Each row of this table indicates the name and the ID of a company and the city i
 
 <p>Table: <code>Orders</code></p>
 
-<pre>+-------------+------+
+<pre>
++-------------+------+
 | Column Name | Type |
 +-------------+------+
 | order_id    | int  |
@@ -49,7 +52,7 @@ Each row of this table contains information about one order. This includes the I
 
 <p>&nbsp;</p>
 
-<p>Write a solution to find the names of all the salespersons who did not have any orders related to the company with the name <strong>"RED"</strong>.</p>
+<p>Write a solution to find the names of all the salespersons who did not have any orders related to the company with the name <strong>&quot;RED&quot;</strong>.</p>
 
 <p>Return the result table in <strong>any order</strong>.</p>
 
@@ -58,7 +61,8 @@ Each row of this table contains information about one order. This includes the I
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> 
+<pre>
+<strong>Input:</strong> 
 SalesPerson table:
 +----------+------+--------+-----------------+------------+
 | sales_id | name | salary | commission_rate | hire_date  |
@@ -98,4 +102,3 @@ Orders table:
 <strong>Explanation:</strong> 
 According to orders 3 and 4 in the Orders table, it is easy to tell that only salesperson John and Pam have sales to company RED, so we report all the other names in the table salesperson.
 </pre>
-</div>
