@@ -67,6 +67,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/alekya-SQL/Leetcode/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/alekya-SQL/Leetcode/tree/master/0620-not-boring-movies) |
 | [1268-market-analysis-i](https://github.com/alekya-SQL/Leetcode/tree/master/1268-market-analysis-i) |
 | [1541-top-travellers](https://github.com/alekya-SQL/Leetcode/tree/master/1541-top-travellers) |
 | [3711-first-letter-capitalization-ii](https://github.com/alekya-SQL/Leetcode/tree/master/3711-first-letter-capitalization-ii) |
