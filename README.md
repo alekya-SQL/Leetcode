@@ -68,6 +68,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 | ------- |
 | [0176-second-highest-salary](https://github.com/alekya-SQL/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/alekya-SQL/Leetcode/tree/master/0177-nth-highest-salary) |
+| [0184-department-highest-salary](https://github.com/alekya-SQL/Leetcode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/alekya-SQL/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/alekya-SQL/Leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/alekya-SQL/Leetcode/tree/master/1258-article-views-i) |
