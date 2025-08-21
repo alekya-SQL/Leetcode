@@ -78,6 +78,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 | [1541-top-travellers](https://github.com/alekya-SQL/Leetcode/tree/master/1541-top-travellers) |
 | [1664-find-users-with-valid-e-mails](https://github.com/alekya-SQL/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/alekya-SQL/Leetcode/tree/master/1827-invalid-tweets) |
+| [2057-count-salary-categories](https://github.com/alekya-SQL/Leetcode/tree/master/2057-count-salary-categories) |
 | [3711-first-letter-capitalization-ii](https://github.com/alekya-SQL/Leetcode/tree/master/3711-first-letter-capitalization-ii) |
 | [3792-find-invalid-ip-addresses](https://github.com/alekya-SQL/Leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3910-find-books-with-no-available-copies](https://github.com/alekya-SQL/Leetcode/tree/master/3910-find-books-with-no-available-copies) |
