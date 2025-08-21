@@ -71,6 +71,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 | [0178-rank-scores](https://github.com/alekya-SQL/Leetcode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/alekya-SQL/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/alekya-SQL/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/alekya-SQL/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/alekya-SQL/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/alekya-SQL/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/alekya-SQL/Leetcode/tree/master/0620-not-boring-movies) |
