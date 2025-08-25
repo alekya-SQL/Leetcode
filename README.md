@@ -75,6 +75,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 | [0596-classes-with-at-least-5-students](https://github.com/alekya-SQL/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/alekya-SQL/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/alekya-SQL/Leetcode/tree/master/0620-not-boring-movies) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/alekya-SQL/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1258-article-views-i](https://github.com/alekya-SQL/Leetcode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/alekya-SQL/Leetcode/tree/master/1268-market-analysis-i) |
 | [1541-top-travellers](https://github.com/alekya-SQL/Leetcode/tree/master/1541-top-travellers) |
