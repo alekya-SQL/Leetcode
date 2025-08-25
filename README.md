@@ -78,6 +78,7 @@ I continue to challenge myself with more complex problems to further sharpen my 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/alekya-SQL/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1258-article-views-i](https://github.com/alekya-SQL/Leetcode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/alekya-SQL/Leetcode/tree/master/1268-market-analysis-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/alekya-SQL/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/alekya-SQL/Leetcode/tree/master/1541-top-travellers) |
 | [1664-find-users-with-valid-e-mails](https://github.com/alekya-SQL/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/alekya-SQL/Leetcode/tree/master/1827-invalid-tweets) |
